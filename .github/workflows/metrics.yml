@@ -34,8 +34,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, dockerfile, makefile, shell
 
-          plugin_languages_indepth_custom: Strathon/core
-
-          commits_authoring: dezobq, dezobq@users.noreply.github.com
+          commits_authoring: dezotech, dezobq@gmail.com
 
           config_timezone: America/Toronto

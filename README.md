@@ -1,89 +1,114 @@
 <div align="center">
 
-# Andre Queiroz (Dezo)
+# André Queiroz
 
-### Enterprise Developer | Context Engineering Specialist
+### Founder &amp; CEO · dezotech
 
-*Building forensic-grade compliance tools solo using AI-powered development methodology*
+*Compliance-evidence software for regulated industries — ship AI fast, stay compliant.*
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dezodev.com-4A90E2?style=flat-square)](https://dezodev.com)
-[![Blog](https://img.shields.io/badge/📝_Blog-Read_Articles-4A90E2?style=flat-square)](https://dezodev.com/blog)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-@dezobq-1DA1F2?style=flat-square)](https://twitter.com/dezobq)
+[![Website](https://img.shields.io/badge/dezotech.com-CF4500?style=flat-square&logo=safari&logoColor=white)](https://dezotech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141413?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dezotech)
+[![X](https://img.shields.io/badge/X-141413?style=flat-square&logo=x&logoColor=white)](https://x.com/dezotech)
+[![Email](https://img.shields.io/badge/hello@dezotech.com-CF4500?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@dezotech.com)
 
 </div>
 
 <br>
 
-## 🎯 What I Do
+## AI is easy to buy. Hard to get past a security review.
 
-I build **enterprise-grade compliance and testing tools** that typically require entire teams—as a solo developer using **context engineering methodology**.
+Regulated teams stall the moment a customer asks how the AI is governed — or a
+legacy system breaks under a "quick" automation. **dezotech** builds the
+compliance-evidence layer that gets those teams past that review: software and
+founder-led deployments, from pilot to production.
 
-<br>
-
-**Currently Shipping:**
-
-| Project | Status | Description |
-|---------|--------|-------------|
-| [DAuditX](https://github.com/dezobq/dauditx) | Beta | Forensic testing toolkit with 16+ quality gates (SOC2/HIPAA/GDPR ready) |
-| [Strathon](https://github.com/dezobq/strathon) | Alpha | Evidence-as-a-Service with HIPAA compliance layer |
-| [Orion AI Kit](https://github.com/dezobq/orion-ai-kit) | Live | Hybrid LLM orchestration framework (Claude + GPT-5) |
-| [MEDRIX](https://github.com/dezobq/medrix) | Alpha | Real-time sales coaching HUD with STT, BANT detection, and playbook FSM |
-| [Viral Shorts AI](https://github.com/dezobq/viral-shorts-ai) | Alpha | AI-powered platform for creating viral short-form videos |
+> *Dezotech – Intelligent Systems &amp; AI Compliance Inc. · Windsor, ON 🇨🇦 · Remote · EN/PT*
 
 <br>
 
-## 💡 Context Engineering Methodology
+## 🛠️ What I'm building
 
-My systematic approach combines specialized AI agents with proven development practices to deliver:
+| Project | Status | What it does |
+|---------|--------|--------------|
+| **shadow-scan** | Available | Offline-first scanner that inventories Shadow AI from network/proxy logs, with a tamper-evident SHA-256 audit trail. Runs on-prem — data never leaves the building. |
+| **casebridge** | In development | Local-first desktop for Employment Ontario case managers. PII never leaves the machine. |
+| **medrix** | Alpha | Real-time sales-coaching HUD — on-device STT, BANT detection, and a playbook FSM. |
+
+*A common thread: local-first, privacy-respecting, evidence-producing software.*
+
+<br>
+
+## 💡 How dezotech works
+
+**De-risk first · Ship in slices · Prove compliance as you go.**
+
+| | Discipline | |
+|---|---|---|
+| `01` | **Process automation** | Hybrid RPA + AI agents that run inside your controls |
+| `02` | **Legacy modernization** | Strangler-fig migration — no big bang, rollback at every slice |
+| `03` | **AI governance** | EU AI Act · NIST AI RMF · ISO 42001 |
+| `04` | **Secure AI adoption** | Shadow AI → governed advantage |
+
+<br>
+
+## 📈 Why now
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
-<h3>⚡ 6 weeks</h3>
-vs 6 months typical<br>team timeline
+<td align="center" width="33%">
+<h3>1 in 5</h3>
+orgs had a breach<br>involving shadow AI
 </td>
-<td align="center" width="25%">
-<h3>🔒 16+ gates</h3>
-automated quality<br>checks per project
+<td align="center" width="33%">
+<h3>$4.63M</h3>
+average shadow-AI<br>breach cost
 </td>
-<td align="center" width="25%">
-<h3>🎨 95+ score</h3>
-Lighthouse with zero<br>a11y violations
-</td>
-<td align="center" width="25%">
-<h3>✅ Compliant</h3>
-SOC2/HIPAA/GDPR<br>built-in from day 1
+<td align="center" width="33%">
+<h3>Aug 2, 2026</h3>
+EU AI Act transparency<br>duties begin
 </td>
 </tr>
 </table>
 
+<div align="center"><sub>Sources: IBM Cost of a Data Breach Report 2025 · EU AI Act, Art. 50</sub></div>
+
 <br>
 
-## 📊 GitHub Stats & Languages
+## 🧭 How it's built
+
+Founder-led and AI-augmented: 17 years inside banking, government and enterprise
+systems, now shipping production software solo with a context-engineering
+methodology — specialized AI agents paired with disciplined delivery practices.
+
+<br>
+
+## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/dezotech/dezotech/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
 
-## 🤝 Connect With Me
+## 🤝 Let's talk
 
 <p align="center">
-  <a href="https://linkedin.com/in/dezobq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/dezobq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://dev.to/dezobq"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>&nbsp;
-  <a href="mailto:contact@dezodev.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dezotech"><img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/dezotech"><img src="https://img.shields.io/badge/X-141413?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://dev.to/dezotech"><img src="https://img.shields.io/badge/Dev.to-141413?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>&nbsp;
+  <a href="mailto:hello@dezotech.com"><img src="https://img.shields.io/badge/Email-CF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <strong>💼 Seeking partners and investors for enterprise compliance tools</strong>
+  <strong>Building dezotech in the open — looking for design partners and investors in regulated AI tooling.</strong>
 </p>
 
 <p align="center">
-  <a href="https://dezodev.com/contact"><img src="https://img.shields.io/badge/Let's_Talk-Contact_Me-4A90E2?style=for-the-badge" alt="Let's Talk" /></a>
+  <a href="https://dezotech.com/contact"><img src="https://img.shields.io/badge/Book_a_30--min_call-CF4500?style=for-the-badge" alt="Book a 30-min call" /></a>
+  &nbsp;
+  <a href="https://dezotech.com/insights"><img src="https://img.shields.io/badge/Read_the_Insights-141413?style=for-the-badge" alt="Read the Insights" /></a>
 </p>
 
 <br>
@@ -92,7 +117,7 @@ SOC2/HIPAA/GDPR<br>built-in from day 1
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dezobq&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dezotech&color=CF4500&style=flat-square&label=Profile+Views)
 
 📍 **Windsor, Ontario, Canada**
 
