@@ -82,6 +82,9 @@ Founder-led and AI-augmented: 17 years inside banking, government and enterprise
 systems, now shipping production software solo with a context-engineering
 methodology — specialized AI agents paired with disciplined delivery practices.
 
+Independent software work outside dezotech lives under my freelance dev
+practice — **[dezodev.com](https://dezodev.com)**.
+
 <br>
 
 ## 📊 GitHub activity
